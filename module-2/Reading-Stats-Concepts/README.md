@@ -17,10 +17,14 @@ You know both concepts but, is there a difference? Are they synonims? Start inve
 
 As a good reference (once you have looked for some information) you have   [this](http://expected.news/value2) article.
 
+The mean takes into account only the values of the possible outcomes, whereas the expected value pairs the values of the possible outcomes with the probability of their occurance.
+
 ### Challenge 2: What is the "problem" in science with p-values?
 We have told you that a lot of scientifical investigations are based on p-values. The last week, Nature magazine published [an article](http://nature.social/statistical4) regarding the problem. Start digging on it!
 
 Don't hesitate to use more articles if you want to :)
+
+The "problem" in science with p-values is that many scientists use them to difinitively state whether or not a theory can be considered "statistically significant" or not. However, the p-value is just an arbitrary value that someone came up with and should not be used as a basis through which to discredit certain findings or 
 
 
 ### Challenge 3: Applying testing to a specific case: A/B testing.
